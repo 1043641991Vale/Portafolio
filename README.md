@@ -1,5 +1,6 @@
 # Portafolio EDA - Valentina Blandon Salgado
-Portafolio EDA
+Interactua con mi portafolio en esta pagina web 
+https://valeportafolio.my.canva.site/
 # Portafolio de Proyectos - Electiva I
 
 ## 1. Puntos de Hallazgos
